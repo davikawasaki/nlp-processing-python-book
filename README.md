@@ -13,3 +13,9 @@
 4\. LSA (Latent Semantic Analysis): uses WordNetLemmatizer, SVD Decomposition and Scatterplot
 
 5\. Article Spinner: uses Trigram word-frequency concept (Markov-model still in early stages)
+
+## References
+
+1\. [Machine Learning LazyProgrammer Repository](https://github.com/lazyprogrammer/machine_learning_examples/tree/master/nlp_class)
+
+2\. [Tutorial: Principal Components Analysis (PCA)](https://lazyprogrammer.me/tutorial-principal-components-analysis-pca/)
